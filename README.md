@@ -1,2 +1,6 @@
-# mckee-wdd-130
-This is my final project website for WDD 130 @ BYUI.
+# WDD 130 Final Project
+Owner: Tamsyn McKee
+
+Semester: Winter 2021
+
+
